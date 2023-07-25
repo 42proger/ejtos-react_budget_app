@@ -1,4 +1,4 @@
-# React-based Simple Budget Application
+#React-based Simple Budget Application
 
 Simple application front-end that facilitates budget allocation for various company departments. 
 
